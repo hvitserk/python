@@ -1,19 +1,5 @@
-#################################################################
-#				 A Simple Pig Latin Translator 					#
-#																#
-# This very simple Python app will take text input into it and 	#
-# and either reject it for not following the rules of Pig Latin #
-# or it will work as intended & take the first letter of a word	#
-#	and place it at the end with the suffix "ay" added to it	#
-#							Have fun!							#
-#																#
-#  This program and its source are 100% libre. You are FREE to 	#
-# run, study, share (copy), and modify this software so long as #
-# 		these rights are retained in future incarnations. 		#
-#						  Happy coding!							#
-#																#
-# Author: Hvitserk the Berserker & CodeCademy	  Copyleft 2016	#
-#################################################################
+# A Simple Pig Latin Translator
+
 #!/usr/bin/python
 
 print "Welcome to the Pig Latin Translator!"
