@@ -1,3 +1,5 @@
+# A Simple Area Calculator
+
 #!/usr/bin/python
 
 # import the needed Python code
