@@ -1,5 +1,4 @@
 # A Mad Libs-like program.
-# Author Hvitserk the Berserker
 
 #!/usr/bin/python
 
