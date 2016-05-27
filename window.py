@@ -1,3 +1,5 @@
+# My first window (black) with Tkinter
+
 #!/usr/bin/python
 
 import Tkinter
