@@ -1,12 +1,7 @@
+# A Mad Libs-like program.
+# Author Hvitserk the Berserker
+
 #!/usr/bin/python
-"""
-This is a simple Mad Libs-esque program that takes input from the user and plugs it into the appropriate blank-spaces to create a funny story all will love.
-
-Author: Hvitserk Ragnarsson 
-hvitserk.ragnarsson@gmail.com
-
-This program is libre. Feel free to edit and change as you wish.
-"""
 
 print "Welcome to Mad Libs!"
 
