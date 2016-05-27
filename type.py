@@ -1,3 +1,5 @@
+# A function that displays text on-screen as if someone was typing it
+
 import sys, time, random
 
 def print_slow(str):
