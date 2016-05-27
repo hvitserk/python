@@ -1,19 +1,4 @@
-#################################################################
-# 					A SIMPLE NUMBER GUESS GAME					#
-#																#
-#	This program will randomly roll a pair of dice, add the		#
-#  values of the roll, ask the user to guess a number, compare	#
-#	the user's value to the total value, and decide a winner.	#
-#	If the user's guess is equal to or greater than the total	#
-#		value, they are declared the winner. Otherwise, the		#
-#				program wins. Simple enough, eh?				#
-#																#
-#  	This program and its source are 100% libre. You are 100%	#
-#  FREE to run, study, share (copy), and modify this software.	#
-#						Period. Happy coding!					#
-#																#
-# Author: Hvitserk the Berserker				  Copyleft 2016 #
-#################################################################
+# A Simple Number Guessing Game 
 #!/usr/bin/python
 
 import random
