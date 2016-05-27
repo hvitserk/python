@@ -1,16 +1,3 @@
-#################################################################
-#					 A Simple Area Calculator 					#
-#																#
-# 	A simple calculator that finds the area for a variety of 	#
-#		 		different shapes. That's about it.	 			#
-#																#
-#  This program and its source are 100% libre. You are FREE to #
-# run, study, share (copy), and modify this software so long as #
-# 		these rights are retained in future incarnations. 		#
-#						  Happy coding!							#
-#																#
-# Author: Hvitserk the Berserker & CodeCademy	  Copyleft 2016 #
-#################################################################
 #!/usr/bin/python
 
 # import the needed Python code
